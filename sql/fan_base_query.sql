@@ -1,3 +1,8 @@
+-- Portfolio Project: Fan Engagement & Marketing Channel Analytics
+-- Description: Example SQL used to build a fan-level dataset and identify
+-- high-value marketing segments (digitally engaged non-buyers)
+-- Note: Data and table names have been anonymized
+
 -- conversion_target_segment.sql
 -- Example portfolio-safe SQL for identifying digitally engaged fans
 -- who have not yet converted to ticket buyers
