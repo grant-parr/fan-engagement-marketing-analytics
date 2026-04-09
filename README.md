@@ -1,5 +1,11 @@
 # fan-engagement-marketing-analytics
 
+## Repository Structure
+
+- `fan_base_query.sql` → Builds unified fan dataset from multiple sources  
+- `segmentation.sql` → Classifies fans into marketing-relevant segments  
+- `conversion_targets.sql` → Identifies high-value audiences for campaign targeting  
+
 Fan Engagement & Marketing Channel Analytics
 Overview
 
